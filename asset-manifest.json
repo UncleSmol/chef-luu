@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/chef-luu/static/css/main.366d076f.css",
+    "main.js": "/chef-luu/static/js/main.d0ce8c13.js",
+    "static/js/453.d91e56c5.chunk.js": "/chef-luu/static/js/453.d91e56c5.chunk.js",
+    "static/media/chakalaka.mp4": "/chef-luu/static/media/chakalaka.0d4d84781d7628d3c514.mp4",
+    "static/media/VID-20250129-WA0005.mp4": "/chef-luu/static/media/VID-20250129-WA0005.4d90a895ee94619bc146.mp4",
+    "static/media/IMG-20250129-WA0050.jpg": "/chef-luu/static/media/IMG-20250129-WA0050.60626cad6d421c075aab.jpg",
+    "static/media/profile-image.jpg": "/chef-luu/static/media/profile-image.67129dd49338e65569e8.jpg",
+    "static/media/IMG-20250129-WA0046.jpg": "/chef-luu/static/media/IMG-20250129-WA0046.d3721d4386413466c685.jpg",
+    "static/media/culinary-hero-bg.jpg": "/chef-luu/static/media/culinary-hero-bg.46c8452ac47a8c625415.jpg",
+    "static/media/bobotie-spring-rolls.jpg": "/chef-luu/static/media/bobotie-spring-rolls.02d72a47ca9f70bc3703.jpg",
+    "static/media/IMG-20250129-WA0051.jpg": "/chef-luu/static/media/IMG-20250129-WA0051.41d42e2ee6a7fe8a2331.jpg",
+    "static/media/amarula-malva.jpg": "/chef-luu/static/media/amarula-malva.2465a932f2afafea7758.jpg",
+    "static/media/espresso-martini.jpg": "/chef-luu/static/media/espresso-martini.e63f3c244d64be175333.jpg",
+    "static/media/IMG-20250129-WA0045.jpg": "/chef-luu/static/media/IMG-20250129-WA0045.17a19ace18775c4ce6ce.jpg",
+    "static/media/IMG-20250129-WA0047.jpg": "/chef-luu/static/media/IMG-20250129-WA0047.9dc984a7fb546f7f4fcc.jpg",
+    "static/media/rooibos-panna-cotta.jpg": "/chef-luu/static/media/rooibos-panna-cotta.733e76466ef35dcfec40.jpg",
+    "static/media/IMG-20250129-WA0048.jpg": "/chef-luu/static/media/IMG-20250129-WA0048.616ab413ceb9c721a7a8.jpg",
+    "static/media/peri-peri-scallops.jpg": "/chef-luu/static/media/peri-peri-scallops.75d0dff7c27e7782f0d0.jpg",
+    "static/media/chakalaka-chicken.jpg": "/chef-luu/static/media/chakalaka-chicken.34a21bbc979bc9cedf5b.jpg",
+    "static/media/trout-citrus.jpg": "/chef-luu/static/media/trout-citrus.c86d3dcd8a2a8c8324f2.jpg",
+    "static/media/rooibos-iced-tea.jpg": "/chef-luu/static/media/rooibos-iced-tea.6ac0c6849ba16f916292.jpg",
+    "index.html": "/chef-luu/index.html",
+    "main.366d076f.css.map": "/chef-luu/static/css/main.366d076f.css.map",
+    "main.d0ce8c13.js.map": "/chef-luu/static/js/main.d0ce8c13.js.map",
+    "453.d91e56c5.chunk.js.map": "/chef-luu/static/js/453.d91e56c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.366d076f.css",
+    "static/js/main.d0ce8c13.js"
+  ]
+}
